@@ -1,0 +1,90 @@
+
+
+
+h2{
+  text-align: center;
+  color: darkblue;
+}
+
+.container
+{
+    
+    width: 400px;
+    margin: auto;
+    background-color: rgba(182, 165, 67, 0.712);
+    border: 2px solid darkgrey;
+}
+.input
+{
+    height: 40px;
+    width: 60%;
+    background-color: wheat;
+    
+    margin-top: 20px;
+    margin-left: 80px;
+    box-shadow: 10px 10px 3px -5px rgba(0,0,0,0.64);
+-webkit-box-shadow: 10px 10px 3px -5px rgba(0,0,0,0.64);
+-moz-box-shadow: 10px 10px 3px -5px rgba(0,0,0,0.64);
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+input
+{
+  height: 100%;
+  width: 100%;
+}
+
+#output
+{
+    height: 25px;
+    width: 60%;
+    color: black;
+    margin: 20px;
+    margin-left: 75px;
+    text-align: center;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+.main
+{
+    
+    width: 80%;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+
+.box
+{
+    height: 30px;
+    width: 80px;
+    border: 2px solid green;
+  margin: 2px;
+  /* margin-left: 10px;
+  margin-top: 2px; */
+  border-radius: 8px ;
+  justify-content: center;
+  align-items: center;
+  /* text-align: center; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.operator
+{
+    height: 30px;
+    width: 80px;
+    border: 2px solid green;
+  margin: 2px;
+  /* margin-left: 10px;
+  margin-top: 2px; */
+  border-radius: 8px ;
+  justify-content: center;
+  align-items: center;
+  /* text-align: center; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
